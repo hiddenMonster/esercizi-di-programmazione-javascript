@@ -7,8 +7,6 @@
     Output: 3 ore, 29 minuti e 20 secondi.
   http://www.imparareaprogrammare.it
 */
-
-
 // ho usato solo operatori aritmetici(modulo, divisione e sottrazione) e la concatenazione tra numeri e stringhe
 // funziona con qualsiasi cifra in secondi inserita in input
 /****************
