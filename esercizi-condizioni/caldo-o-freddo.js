@@ -36,4 +36,4 @@ if(monday < tuesday & monday < wednasday & monday < thursday & monday < friday &
           }else if(sunday < monday & sunday < tuesday & sunday < wednasday & sunday < thursday & sunday < friday & sunday < saturday){
               iColdest = 'sunday con ' + sunday + ' gradi';
 }
-console.log('Il giorno della settimana più caldo è stato ' + iHottest + ' mentre il più freddo è stato ' + iColdest);
+console.log('Il giorno della settimana più caldo è stato ' + iHottest + ' mentre il più freddo è stato ' + iColdest); 
