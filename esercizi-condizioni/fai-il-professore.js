@@ -32,6 +32,7 @@ else
 {
   console.log('Il voto deve essere compreso tra 0 e 30');
 }
+
 //**************************************************************
 /********************
 "Fai il professore2"*
