@@ -11,7 +11,7 @@
   Hint: per indentare puoi usare il tab con '\t'.
   http://www.imparareaprogrammare.it
 */
-var iOddNum = 7; //original input
+var iOddNum = 5; //original input
 if(iOddNum % 2 != 0){
   var cChar = 'X';
   for(var i = 0; i < iOddNum; i++){
