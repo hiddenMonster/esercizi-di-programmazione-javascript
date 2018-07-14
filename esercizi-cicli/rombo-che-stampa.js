@@ -11,3 +11,14 @@
   Hint: per indentare puoi usare il tab con '\t'.
   http://www.imparareaprogrammare.it
 */
+var iOddNum = 7; //original input
+if(iOddNum % 2 != 0){
+  var cChar = 'X';
+  for(var i = 0; i < iOddNum; i++){
+    if(i == 0)console.log('  ' + cChar);
+    if(i == 1)console.log(' ' + cChar + cChar + cChar);
+    if(i == 2)console.log(cChar + cChar + cChar + cChar + cChar);
+    if(i == 3)console.log(' ' + cChar + cChar + cChar);
+    if(i == 4)console.log('  ' + cChar);
+  }
+}
